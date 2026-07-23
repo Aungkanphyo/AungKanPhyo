@@ -35,8 +35,8 @@ I'm a passionate **Full-stack Developer** based in Mandalay, currently focused o
 ---
 
 ### 🌐 Connect with me:
-* **[LinkedIn Profile]** (https://www.linkedin.com/in/aung-kan-phyo-007904221/) 
-* **Telegram:** `@aungkanphyoo` (https://t.me/aungkanphyoo)
+* **[LinkedIn Profile]** [Aung Kan Phyo](https://www.linkedin.com/in/aungkanphyo/) 
+* **Telegram:** `@aungkanphyodev`(https://t.me/aungkanphyodev)
 * I'm currently looking for opportunities to collaborate on web development projects!
 
 <!--

@@ -37,6 +37,7 @@ I'm a passionate **Full-stack Developer** based in Mandalay, currently focused o
 ### 🌐 Connect with me:
 * 🌐 **Website:** [My Portfolio](https://aungkanphyo-portfolio.vercel.app/)
 * 💼 **LinkedIn:** [Aung Kan Phyo](https://www.linkedin.com/in/aungkanphyo/)
+* 📘 **Facebook:** [Aung Kan Phyo](https://www.facebook.com/aung.k.phyo.18294053/)
 * 💬 **Telegram:** [@aungkanphyodev](https://t.me/aungkanphyodev)
 <!--
 **Aungkanphyo/AungKanPhyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

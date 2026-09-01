@@ -28,8 +28,8 @@ I'm a passionate **Full-stack Developer** based in Mandalay, currently focused o
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AungKanPhyo&show_icons=true&theme=dark" alt="Aung Kan Phyo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungKanPhyo&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-two-zeta-19.vercel.app/api?username=AungKanPhyo&show_icons=true&theme=dark&count_private=true" alt="Aung Kan Phyo's GitHub Stats" />
+  <img src="https://github-readme-stats-two-zeta-19.vercel.app/api/top-langs/?username=AungKanPhyo&layout=compact&theme=dark&count_private=true" alt="Top Languages" />
 </p>
 
 ---

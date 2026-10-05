@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Aung Kan Phyo!
 
-I'm a passionate **Full-stack Developer** based in Mandalay, currently focused on building robust and scalable applications. I'm actively working with the **MERN Stack** (MongoDB, Express, React, Node.js) and integrating **React with Laravel** for dynamic web solutions.
+I'm a passionate **Full-stack Developer**, currently focused on building robust and scalable applications. I'm actively working with the **MERN Stack** (MongoDB, Express, React, Node.js) and integrating **React with Laravel** for dynamic web solutions.
 
 ---
 
